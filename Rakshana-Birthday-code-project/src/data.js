@@ -36,7 +36,7 @@ export const photos = [
 // ==========================
 export const messageScreenHeading = "A Few Words for You"
 // Heading above card - Change this text as you like
-export const specialMessage = 'Innum Yosikala'
+export const specialMessage = 'You’ve only been in my life for a few months, but you’ve had the kind of impact most people never manage in years. You’re honest, you stand by what’s right, and for some reason you believed in me even when I didn’t. What I appreciate most is your honesty — the kind that doesn’t sugarcoat, the kind that actually makes a person think. And honestly, that conversation about man of regrets changed something in me. I went back and thought about everything. I had done so many good things this year… but all I remembered were the regrets. That was the moment I decided: Zero regrets. A complete mindset shift — and it started because of you. So here’s to you, for being real, for being steady, and for being the kind of friend who unknowingly helps someone grow. Happy Birthday, Rakshana. Enjoy your day — you earned it.'
 // Main special message (you can edit freely)
 
 
